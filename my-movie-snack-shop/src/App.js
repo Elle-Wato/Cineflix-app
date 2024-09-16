@@ -13,6 +13,7 @@ function App() {
   
   const addToCart = (item) => {
     // Add item to cart logic
+   
     const existingItem = cartItems.find(cartItem => cartItem.id === item.id);
     if (existingItem) {
       setCartItems(cartItems.map(cartItem =>

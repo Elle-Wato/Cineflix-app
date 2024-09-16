@@ -220,8 +220,23 @@
   ],
   "orders": [
     {
-      "id": "05b5",
-      "customer": "elle",
+      "id": "c522",
+      "customer": "Elle",
+      "items": [
+        {
+          "name": "Chocolate Chip Cookies",
+          "quantity": 1
+        },
+        {
+          "name": "Snickers",
+          "quantity": 1
+        }
+      ],
+      "totalPrice": 290
+    },
+    {
+      "id": "24d3",
+      "customer": "Elle",
       "items": [
         {
           "name": "Popcorn",
@@ -235,36 +250,19 @@
           "name": "Orange Juice",
           "quantity": 1
         }
-      ]
+      ],
+      "totalPrice": null
     },
     {
-      "id": "957c",
-      "customer": "wato",
+      "id": "7a55",
+      "customer": "Wato",
       "items": [
-        {
-          "name": "Chocolate Chip Cookies",
-          "quantity": 1
-        },
         {
           "name": "Snickers",
           "quantity": 1
-        },
-        {
-          "name": "KitKat",
-          "quantity": 1
         }
       ],
-      "totalPrice": 390
-    },
-    {
-      "id": "15ea",
-      "customer": "Adan",
-      "items": [
-        {
-          "quantity": 1
-        }
-      ],
-      "totalPrice": null
+      "totalPrice": 150
     }
   ]
 }
